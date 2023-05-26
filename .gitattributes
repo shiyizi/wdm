@@ -1,0 +1,12 @@
+CoilQAv5.exe filter=lfs diff=lfs merge=lfs -text
+cscan.log filter=lfs diff=lfs merge=lfs -text
+language filter=lfs diff=lfs merge=lfs -text
+protocols filter=lfs diff=lfs merge=lfs -text
+SqliteInterface.dll filter=lfs diff=lfs merge=lfs -text
+tmp filter=lfs diff=lfs merge=lfs -text
+archive filter=lfs diff=lfs merge=lfs -text
+CoilQA.log filter=lfs diff=lfs merge=lfs -text
+CoilUnits.dll filter=lfs diff=lfs merge=lfs -text
+CoilUnits.ini filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+simsun filter=lfs diff=lfs merge=lfs -text
