@@ -1,3 +1,3 @@
 [Info]
-version = 1.0.0.0-beta
+version = 1.0.0.1_beta
 
