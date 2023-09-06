@@ -1,3 +1,3 @@
 [Info]
-version = 1.0.0.1_beta2
+version = 1.0.0.1_gamma
 volume = 4
